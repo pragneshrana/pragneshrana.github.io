@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Pragnesh Rana",
+    "description": "Data Scientist and AI Engineer with expertise in Gen-AI, RAG, LLMs, Deep Learning, and Multi-Agent Systems",
+    "image": "profilepic.jpg",
+    "bio": "I am a passionate and results-driven data scientist specializing in building AI-driven solutions, including multi-agent systems, retrieval-augmented generation (RAG), and fine-tuned large language models (LLMs). With a research-based master's degree from IIT Madras, I focus on driving innovation through data-driven strategies that lead to continuous growth and success. My expertise spans Gen-AI, deep learning, cloud-native architectures, and AI-powered decision systems, which I have applied across various industries such as Pharma, Auto, and Finance. I am committed to creating scalable, impactful systems that optimize decision-making processes and improve business outcomes. Always focused on continuous learning, I actively pursue workshops and certifications to stay at the cutting edge of technological advancements and contribute to solving complex challenges with innovative AI solutions.",
+    "contactmessage": "Reach out for AI-driven solutions, collaborations, or discussions on ML, DL, RAG, and LLMs.",
+    "email": "pragneshrana244@gmail.com",
+    "phone": "+91 9033XXXXXX",
+    "github": "https://github.com/pragneshrana",
+    "project": "https://github.com/pragneshrana/WorkSample",
+    "address": {
+      "street": "Sanjay Nagar",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "zip": "560094"
+    },
+    "website": "https://www.linkedin.com/in/pragneshrana",
+    "resumedownload": "https://raw.githubusercontent.com/pragneshrana/cv/main/PragneshCV.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/pragneshrana",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/pragneshrana",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Proficient in Gen-AI, Multi-Agent Systems, and AI-driven decision-making.",
+    "education": [
+      {
+        "school": "IIT Madras",
+        "degree": "MS by Research in Computational Mathematics & Mechanical",
+        "graduated": "2021",
+        "description": "Focused on Machine Learning, Numerical Methods, and AI-driven research. Developed regression-based clustering algorithms achieving 93% accuracy."
+      },
+      {
+        "school": "GTU, Gujarat",
+        "degree": "Bachelor of Engineering",
+        "graduated": "2016",
+        "description": "Studied computational modeling, simulation techniques and engineering applications."
+      }
+    ],
+    "work": [
+      {
+        "company": "Birlasoft (CoE & Pharma)",
+        "title": "Technical Lead - Data Scientist",
+        "years": "May 2024 - Present",
+        "description": "Developed AI-driven systems using Gen-AI, LLMs, RAG, and multi-agent architectures. Created Text2SQL bots, deployed Gen-AI algorithms for cancer identification, and optimized supply chain analytics."
+      },
+      {
+        "company": "Epsilon (Auto & Retail)",
+        "title": "Data Scientist 2",
+        "years": "Aug 2021 - Apr 2024",
+        "description": "Built recommendation systems, personalized marketing models, and AI-driven CSSR campaigns. Fine-tuned LLaMA models and implemented reinforcement learning for recommendation optimization."
+      },
+      {
+        "company": "Elite Technocrats (Finance)",
+        "title": "AI Developer",
+        "years": "Apr 2021 - Aug 2021",
+        "description": "Developed algorithmic trading models, stock trend prediction using ARIMA, and back-testing solutions for financial applications."
+      },
+      {
+        "company": "Nishtha Automation",
+        "title": "R&D Engineer",
+        "years": "Jun 2016 - Dec 2021",
+        "description": " Developed machine learning models for predictive maintenance and vibration control in diamond manufacturing, improving machine reliability and reducing downtime through anomaly detection and failure analysis."
+      }
+    ],
+    "skills": [
+      { "name": "Python", "level": "95%" },
+      { "name": "Gen-AI", "level": "90%" },
+      { "name": "LLMs", "level": "85%" },
+      { "name": "RAG", "level": "80%" },
+      { "name": "ReactJS", "level": "70%" },
+      { "name": "Docker & Kubernetes", "level": "75%" },
+      { "name": "GCP & AWS", "level": "80%" }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Fine-Tuning",
+        "category": "Fine-tuned phi model",
+        "image": "LLMFinetune.jpg",
+        "url": "https://www.kaggle.com/code/pragneshrana/finetune-model"
+      },
+      {
+        "title": "Data-driven Research",
+        "category": "Data-driven framework for prediciton of ignition delay",
+        "image": "IITM_research.jpg",
+        "url": "https://github.com/Computational-Chemistry-and-Combustion/DataDrivenIDT"
+      },
+      {
+        "title": "Automation Control via ML ",
+        "category": "Vibration and Temperature predcition ",
+        "image": "nishtha.png",
+        "url": "https://github.com/pragneshrana/WorkSample/blob/main/AutomationControl.ipynb"
+      },
+      {
+        "title": "Stock Price Prediction (ML+DL)",
+        "category": "Stock price prediction",
+        "image": "stock.jpg",
+        "url": "https://github.com/pragneshrana/WorkSample/blob/main/ML_DL_Finance.ipynb"
+      },
+      {
+        "title": "Microservice project (Python+React) ",
+        "category": "Sample project of appication build using microservice",
+        "image": "fullstack.jpg",
+        "url": "https://github.com/ragneshrana/python-react-microservice"
+      },
+      {
+        "title": " Multi-agentic ChatBOTs",
+        "category": "Chat BOT build using multi-agentic workflow",
+        "image": "chatbot.jpeg",
+        "url": "https://github.com/ragneshrana/cracked"
+      }
+    ]
+  }
+}
