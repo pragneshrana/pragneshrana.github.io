@@ -1,6 +1,6 @@
 # Portfolio:
 
-### [LIVE DEMO](https://pragneshrana.github.io/portfolio/index.html)
+### [LIVE DEMO](https://pragneshrana.github.io/)
 
 # Run Project
 ### 1. Clone the project
