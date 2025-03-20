@@ -22,7 +22,7 @@ const Footer = ({ data }) => {
             <ul className="copyright">
               <li>&copy; Copyright 2025 </li>
               <li>
-                Design by{" "}
+                Designed by{" "}
                 <a title="Pragnesh" href="http://www.pragneshrana.com/">
                   Pragnesh
                 </a>

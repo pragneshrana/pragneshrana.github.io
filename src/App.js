@@ -1,4 +1,4 @@
-import ReactGA from "react-ga";
+/* global gtag */ // Add this line at the very top of your App.js
 import $ from "jquery";
 import "./App.css";
 import Header from "./Components/Header";
@@ -14,8 +14,10 @@ const App = () => {
   
   // Initialize Google Analytics
   useEffect(() => {
-    ReactGA.initialize("G-GMLVFQPDHN");
-    ReactGA.pageview(window.location.pathname);
+    // Page view tracking using gtag
+    gtag("config", "G-GMLVFQPDHN", {
+      page_path: window.location.pathname,
+    });
   }, []);
 
   // Fetch resume data
